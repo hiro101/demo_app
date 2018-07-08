@@ -1,3 +1,3 @@
 # demo_app
 
-リードミー
+Hello World
